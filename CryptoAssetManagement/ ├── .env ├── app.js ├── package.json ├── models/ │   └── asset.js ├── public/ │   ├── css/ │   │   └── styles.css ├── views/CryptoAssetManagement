@@ -1,0 +1,16 @@
+CryptoAssetManagement/
+├── .env
+├── app.js
+├── package.json
+├── models/
+│   └── asset.js
+├── public/
+│   ├── css/
+│   │   └── styles.css
+├── views/
+│   ├── index.ejs
+│   ├── add.ejs
+│   ├── edit.ejs
+│   └── details.ejs
+└── routes/
+    └── index.js
